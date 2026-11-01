@@ -6,7 +6,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Data-Excel-217346?logo=microsoftexcel&logoColor=white)
 ![Rows](https://img.shields.io/badge/Data-700%20baris-blue)
-![Periode](https://img.shields.io/badge/Periode-2013--2014-orange)
+![Periode](https://img.shields.io/badge/Periode-2023-orange)
 ![Status](https://img.shields.io/badge/Status-Selesai-success)
 
 </div>
@@ -213,7 +213,7 @@ Tanpa Power BI, lihat hasilnya di `Tugas Bussines Intelegence.pdf`.
 
 ## 👤 Penulis
 
-**Asha Fa Multazam** — [GitHub](https://github.com/ashafamultazam)
+**Ashafa Multazam** — [GitHub](https://github.com/ashafamultazam)
 
 Dosen pengampu: **Bp. Agus Nugraha, S.T., M.Kom.**
 
